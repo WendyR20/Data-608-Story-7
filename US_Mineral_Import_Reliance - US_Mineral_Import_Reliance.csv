@@ -1,0 +1,51 @@
+Mineral,US_Net_Import_Reliance,Import_Reliance_Status,Major_Import_Source,Secondary_Import_Sources,Geopolitical_Category,Primary Uses
+Aluminum,44,Moderate Import Reliance,Canada,"United Arab Emirates, Russia, China",Ally,Used in almost all sectors of the economy
+Antimony,84,High Import Reliance,China,"Belgium, India",Competitor,Used in lead-acid batteries and flame retardants
+Arsenic,100,Complete Import Reliance,China,"Morocco, Belgium",Competitor,Used in semi-conductors
+Barite,>75,High Import Reliance,China,"India, Morocco, Mexico",Competitor,Used in hydrocarbon production
+Beryllium,<20 ,Low Import Reliance,N/A,N/A,N/A,Used as an alloying agent in aerospace and defense industries
+Bismuth,90,High Import Reliance,China,"Republic of Korea, Mexico, Belgium",Competitor,Used in medical and atomic research
+Cerium,>90,High Import Reliance,China,N/A,Competitor,"Used in catalytic converters, ceramics, glass, metallurgy, and polishing compounds"
+Cesium,100,Complete Import Reliance,Germany,China,Ally,Used in research and development
+Chromium,80,High Import Reliance,South Africa,"Kazakhstan, Russia, Mexico",Neutral,Used primarily in stainless steel and other alloys
+Cobalt,76,High Import Reliance,Norway,"Canada, Japan, Finland",Neutral,Used in rechargeable batteries and superalloys
+Dysprosium,>90,High Import Reliance,China,N/A,Competitor,"Used in permanent magnets, data storage devices, and lasers"
+Erbium,>90,High Import Reliance,China,N/A,Competitor,"Used in fiber optics, optical amplifiers, lasers, and glass colorants"
+Europium,>90,High Import Reliance,China,N/A,Competitor,Used in phosphors and nuclear control rods
+Fluorspar,100,Complete Import Reliance,Mexico,"Vietnam, South Africa, Canada",Neutral,"Used in the manufacture of aluminum, cement, steel, gasoline, and fluorine chemicals"
+Gadolinium,>90,High Import Reliance,China,N/A,Competitor,"Used in medical imaging, permanent magnets, and steelmaking"
+Gallium,100,Complete Import Reliance,China,"United Kingdom, Germany, Ukraine",Competitor,Used for integrated circuits and optical devices like LEDs
+Germanium,>50,Moderate-High Import Reliance,China,"Belgium, Germany, Russia",Competitor,Used for fiber optics and night vision applications
+Graphite,100,Complete Import Reliance,China,"Mexico, Canada, India",Competitor,"Used for lubricants, batteries, and fuel cells"
+Hafnium,N/A,N/A,N/A,N/A,N/A,"Used for nuclear control rods, alloys, and high-temperature ceramics"
+Holmium,>90,High Import Reliance,China,N/A,Competitor,"Used in permanent magnets, nuclear control rods, and lasers"
+Indium,100,Complete Import Reliance,China,"Canada, Republic of Korea, France",Competitor,Used in liquid crystal display screens
+Iridium,N/A,Data Unavailable,N/A,N/A,Neutral,Used as coating of anodes for electrochemical processes and as a chemical catalyst
+Lanthanum,>90,High Import Reliance,China,N/A,Competitor,"Used to produce catalysts, ceramics, glass, polishing compounds, metallurgy, and batteries"
+Lithium,>25,Moderate Import Reliance,Argentina,"Chile, China, Russia",Neutral,Used for rechargeable batteries
+Lutetium,>90,High Import Reliance,China,N/A,Competitor,"Used in scintillators for medical imaging, electronics, and some cancer therapies"
+Magnesium,55 / <50,Moderate Import Reliance,China,"Brazil, Israel, Canada",Competitor,Used as an alloy and for reducing metals
+Manganese,100,Complete Import Reliance,Gabon,"South Africa, Australia, Georgia",Neutral,Used in steelmaking and batteries
+Neodymium,>90,High Import Reliance,China,N/A,Competitor,"Used in permanent magnets, rubber catalysts, and in medical and industrial lasers"
+Nickel,48,Moderate Import Reliance,Canada,"Norway, Finland, Australia",Ally,"Used to make stainless steel, superalloys, and rechargeable batteries"
+Niobium,100,Complete Import Reliance,Brazil,Canada,Neutral,Used mostly in steel and superalloys
+Palladium,37,Moderate Import Reliance,Russia,"South Africa, Germany",Competitor,Used in catalytic converters and as a catalyst agent
+Platinum,70,High Import Reliance,South Africa,"Germany, Switzerland, Italy",Neutral,Used in catalytic converters
+Praseodymium,>90,High Import Reliance,China,N/A,Competitor,"Used in permanent magnets, batteries, aerospace alloys, ceramics, and colorants"
+Rhodium,N/A,N/A,N/A,"South Africa, Germany",Neutral,"Used in catalytic converters, electrical components, and as a catalyst"
+Rubidium,100,Complete Import Reliance,Germany,N/A,Ally,Used for research and development in electronics
+Ruthenium,N/A,N/A,N/A,N/A,Neutral,"Used as catalysts, as well as electrical contacts and chip resistors in computers"
+Samarium,>90,High Import Reliance,China,N/A,Competitor,"Used in permanent magnets, as an absorber in nuclear reactors, and in cancer treatments"
+Scandium,100,Complete Import Reliance,Europe,"China, Japan, Russia",Competitor,"Used for alloys, ceramics, and fuel cells"
+Tantalum,100,Complete Import Reliance,China,"Germany, Australia, Indonesia",Competitor,"Used in electronic components, mostly capacitors and in superalloys"
+Tellurium,>95,Very High Import Reliance,Canada,"Germany, China, Philippines",Ally,"Used in solar cells, thermoelectric devices, and as alloying additive"
+Terbium,>90,High Import Reliance,China,N/A,Competitor,"Used in permanent magnets, fiber optics, lasers, and solid-state devices"
+Thulium,>90,High Import Reliance,China,N/A,Competitor,Used in various metal alloys and in lasers
+Tin,78,High Import Reliance,Indonesia,"Peru, Malaysia, Bolivia",Neutral,Used as protective coatings and alloys for steel
+Titanium,>90,High Import Reliance,Japan,"Kazakhstan, Ukraine",Ally,Used as a white pigment or metal alloys
+Tungsten,>50,Moderate-High Import Reliance,China,"Bolivia, Germany, Canada",Competitor,Primarily used to make wear-resistant metals
+Vanadium,100,Complete Import Reliance,Canada,"China, Brazil, South Africa",Ally,Primarily used as alloying agent for iron and steel
+Ytterbium,>90,High Import Reliance,China,N/A,Competitor,"Used for catalysts, scintillometers, lasers, and metallurgy"
+Yttrium,100,Complete Import Reliance,China,"Republic of Korea, Japan",Competitor,"Used for ceramic, catalysts, lasers, metallurgy, and phosphors"
+Zinc,76,High Import Reliance,Canada,"Mexico, Peru, Spain",Ally,Primarily used in metallurgy to produce galvanized steel
+Zirconium,<25,Low Import Reliance,South Africa,"Senegal, Australia, Russia",Neutral,Used in the high-temperature ceramics and corrosion-resistant alloys
